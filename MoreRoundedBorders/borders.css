@@ -1,0 +1,66 @@
+.scrollableContainer-2NUZem, 
+.item-26Dhrx,
+.item-PXvHYJ,
+.button-38aScr,
+.checkbox-1ix_J3,
+.select-2TCrqx,
+.css-1a8reka-control,
+.css-gd8if9-control,
+.container-CpszHS,
+.formNotice-2_hHWR,
+.authedApp-mj2Hmd,
+.accountList-33MS45,
+.connection-1fbD7X,
+.codeRedemptionRedirect-1wVR4b,
+.inputDefault-_djjkz,
+.cardWrapper-2Min21, .card-3AyPWq,
+.membershipDialog-rVL-t_,
+.powercord-account,
+.card-3Qj_Yx,
+.container-cMG81i,
+[type="button"] {
+   border-radius: 25px !important;
+}
+
+.accountCredit-2hUNux,
+.iconBackgroundTier2-2TeI3a,
+.iconBackgroundTier1-2GOcU8,
+.banner-3Kac2g,
+.detailsBlock-FoDTGA,
+.previewContainer-37c2Si,
+.activeGame-14JI7o,
+.preview-2nSL_2,
+.userPopout-3XzG_A, .flex-1xMQg5 {
+   border-radius: 15px !important;
+}
+
+.accountCreditRow-SHgyi0:not(:last-child) {
+   padding-bottom: 16px;
+   border-bottom: none;
+}
+
+/* thank u hellbound */
+.role-2irmRk {
+   position: relative;
+   overflow: hidden;
+   z-index: 1;
+   border: none;
+   padding: 5px;
+}
+
+.roleCircle-3xAZ1j::before {
+   content: '';
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   background: inherit;
+   opacity: 0.2;
+   z-index: -1;
+   pointer-events: none;
+}
+
+.footer-1fjuF6 {
+   border-top: none;
+}

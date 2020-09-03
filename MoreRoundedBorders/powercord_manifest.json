@@ -1,0 +1,9 @@
+{
+    "name": "MoreRoundedBorders",
+    "description": "Makes anything that's already some-what rounded more rounded.",
+    "version": "1.0.0",
+    "author": "LuckFire#48000",
+    "theme": "borders.css",
+    "consent": "false",
+    "license": "MIT"
+}
