@@ -5,3 +5,9 @@ These are some unoriginal, random CSS snippets I threw together for importing in
 Make borders that are some-what rounded more rounded.
 ## Preview
 ![Preview ](https://cdn.discordapp.com/attachments/738968109288914976/751152635196735528/unknown.png)
+## Installtion
+If you'd like to import this snippet, go to your **Themes tab, open Quick CSS** and paste the following: 
+
+	@import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/MoreRoundedBorders/borders.css")
+  
+# PlaceHolder
