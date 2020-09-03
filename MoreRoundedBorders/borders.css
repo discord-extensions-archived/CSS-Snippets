@@ -18,6 +18,9 @@
 .powercord-account,
 .card-3Qj_Yx,
 .container-cMG81i,
+.searchBar-3dMhjb,
+.layout-2DM8Md,
+.root-1ANs48,
 [type="button"] {
    border-radius: 25px !important;
 }
@@ -30,7 +33,8 @@
 .previewContainer-37c2Si,
 .activeGame-14JI7o,
 .preview-2nSL_2,
-.userPopout-3XzG_A, .flex-1xMQg5 {
+.userPopout-3XzG_A, .flex-1xMQg5, 
+.contentWrapper-SvZHNd {
    border-radius: 15px !important;
 }
 
