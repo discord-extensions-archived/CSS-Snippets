@@ -1,5 +1,5 @@
 # More Rounded Borders
-Make buttons that are some-what rounded more rounded. 
+Make borders that are some-what rounded more rounded. 
 #### Disclaimer: This snippet is supposed to work as intended and as intended alone, it's not supposed to look pretty or be the best possible way to code this. 
 
 ## Preview
