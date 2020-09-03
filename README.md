@@ -3,5 +3,5 @@ These are some unoriginal, random CSS snippets I threw together for importing in
 
 ## More Rounded Borders
 Make buttons that are some-what rounded more rounded.
-### Previews
+### Preview
 ![Preview ](https://cdn.discordapp.com/attachments/738968109288914976/751152635196735528/unknown.png)
