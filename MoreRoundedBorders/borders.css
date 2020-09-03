@@ -20,7 +20,8 @@
 .container-cMG81i,
 .searchBar-3dMhjb,
 .layout-2DM8Md,
-.root-1ANs48,
+.root-1ANs48, .root-1gCeng,
+.input-cIJ7To, 
 [type="button"] {
    border-radius: 25px !important;
 }
@@ -34,9 +35,15 @@
 .activeGame-14JI7o,
 .preview-2nSL_2,
 .userPopout-3XzG_A, .flex-1xMQg5, 
-.contentWrapper-SvZHNd {
+.contentWrapper-SvZHNd,
+.recentMentionsPopout-3rCiI6 {
    border-radius: 15px !important;
 }
+
+.inputWrapper-31_8H8:before {
+   display: none;
+}
+
 
 /* thank u hellbound */
 .accountCreditRow-SHgyi0:not(:last-child) {
