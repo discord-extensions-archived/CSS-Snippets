@@ -9,7 +9,7 @@
 .codeRedemptionRedirect-1wVR4b,
 .inputDefault-_djjkz,
 .container-cMG81i,
-.searchBar-3dMhjb,
+.searchBar-3dMhjb, .searchBarComponent-32dTOx,
 .layout-2DM8Md,
 .input-cIJ7To,
 .accountBtnInner-sj5jLs,
@@ -50,7 +50,6 @@
 .inputWrapper-31_8H8:before {
    display: none;
 }
-
 
 /* thank u hellbound */
 .accountCreditRow-SHgyi0:not(:last-child) {
