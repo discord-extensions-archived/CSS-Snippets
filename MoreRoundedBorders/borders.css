@@ -1,5 +1,5 @@
 .scrollableContainer-2NUZem, 
-.item-26Dhrx, .side-8zPYf6 > .item-PXvHYJ,
+.radioGroup-1GBvlr > .directionRow-3v3tfG, .side-8zPYf6 > .item-PXvHYJ,
 .side-8zPYf6,
 .button-38aScr,
 .checkbox-1ix_J3,
@@ -11,9 +11,10 @@
 .container-cMG81i,
 .searchBar-3dMhjb,
 .layout-2DM8Md,
-.root-1ANs48, .root-1gCeng,
 .input-cIJ7To,
-.accountBtnInner-sj5jLs {
+.accountBtnInner-sj5jLs,
+.cardPrimaryEditable-3KtE4g,
+.content-1LAB8Z > .message-2qRu38 {
    border-radius: 25px !important;
 }
 
@@ -35,13 +36,21 @@
 .powercord-account,
 .formNotice-2_hHWR,
 .card-3Qj_Yx,
-.integration-3kMeY4 {
+.root-1ANs48, .root-1gCeng,
+.integration-3kMeY4,
+.uploadModal-2ifh8j,
+.flexCenter-3_1bcw:before {
    border-radius: 15px !important;
+}
+
+.footer-3mqk7D {
+   border-radius: 0px 0px 15px 15px !important;
 }
 
 .inputWrapper-31_8H8:before {
    display: none;
 }
+
 
 /* thank u hellbound */
 .accountCreditRow-SHgyi0:not(:last-child) {
