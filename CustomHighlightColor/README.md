@@ -2,7 +2,7 @@
 Customize the ping as well as Clyde's highlight colors.
 
 ## Preview 
-![Cool Colors!!](https://cdn.discordapp.com/attachments/738968109288914976/750129515283611689/unknown.png)
+![Cool Colors!!](https://cdn.discordapp.com/attachments/738968109288914976/752296542207213653/unknown.png)
 
 ## Installtion
 If you'd like to import this snippet, go to your **Themes tab, open Quick CSS** and paste the following:
