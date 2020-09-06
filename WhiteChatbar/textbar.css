@@ -1,28 +1,34 @@
+:root {
+   --primary-background-color: rgb(235, 237, 239);
+   --secondary-background-color: rgb(215, 215, 215);
+   --text-interactive-color: rgb(46, 51, 56); 
+   --icon-color: rgb(103, 110, 121);
+}
+
 .scrollableContainer-2NUZem {
-   background: rgb(235, 237, 239) !important;
+   background: var(--primary-background-color) !important;
 }
 .textArea-12jD-V > .markup-2BOw-j {
-   color: rgb(0, 0, 0) !important;
-   caret-color: rgb(0, 0, 0) !important;
+   color: var(--text-interactive-color) !important;
+   caret-color: var(--text-interactive-color) !important;
 }
 .attachButtonPlus-jWVFah,
 .icon-3D60ES,
 .sprite-2iCowe {
    filter: none !important;
-   fill: rgb(103, 110, 121) !important;
-   color: rgb(103, 110, 121) !important;
-}
-
-.before_inlineCode-1G9rTK,
-.inlineCode-2ngu6Y,
-.after_inlineCode-1KfVgj {
-   background: rgb(215, 215, 215);
-   color: rgb(0, 0, 0);
-}
-.codeBlockSyntax-2i-tMA,
-.codeBlockText-9TnoxQ {
-   color: rgb(0, 0, 0);
+   fill: var(--icon-color) !important;
+   color: var(--icon-color) !important;
 }
 .slateTextArea-1Mkdgw > .blockquoteContainer-U5TVEi > .blockquoteDivider-2hH8H6 {
    background: rgb(199, 204, 209) !important;
+}
+.before_inlineCode-1G9rTK,
+.inlineCode-2ngu6Y,
+.after_inlineCode-1KfVgj {
+   background: var(--secondary-background-color);
+   color: var(--text-interactive-color);
+}
+.codeBlockSyntax-2i-tMA,
+.codeBlockText-9TnoxQ {
+   color: var(--text-interactive-color);
 }
