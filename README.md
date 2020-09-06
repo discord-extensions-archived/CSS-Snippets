@@ -10,4 +10,35 @@ If you'd like to import this snippet, go to your **Themes tab, open Quick CSS** 
 
 	@import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/MoreRoundedBorders/borders.css")
   
-## PlaceHolder
+
+## White Chatbar
+If you're using dark theme but want a white chatbar, this will do that.
+
+### Preview
+![Preview](https://cdn.discordapp.com/attachments/738968109288914976/752283695125364806/unknown.png)
+![Preview2](https://cdn.discordapp.com/attachments/738968109288914976/752281020992061515/unknown.png)  
+
+### Installtion
+If you'd like to import this snippet, go to your **Themes tab, open Quick CSS** and paste the following:
+
+    @import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/WhiteChatbar/textbar.css")
+
+## Custom Highlight Colors
+Customize the ping as well as Clyde's highlight colors.
+
+### Preview 
+![Cool Colors!!](https://cdn.discordapp.com/attachments/738968109288914976/752296542207213653/unknown.png)
+
+### Installtion
+If you'd like to import this snippet, go to your **Themes tab, open Quick CSS** and paste the following:
+
+    @import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/CustomHighlightColor/highlight.css");
+
+    :root {
+            --ping-side: rgb(114, 137, 218);
+            --ping-default: rgba(114, 137, 218, 0.05);
+            --ping-hover: rgba(114, 137, 218, 0.12);
+            --clyde-side: rgb(240, 71, 71); 
+            --clyde-default: rgba(240, 71, 71, 0.05);
+            --clyde-hover: rgba(240, 71, 71, 0.12);
+    }
