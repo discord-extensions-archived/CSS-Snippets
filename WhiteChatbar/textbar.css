@@ -1,5 +1,5 @@
 .scrollableContainer-2NUZem {
-   background: rgb(255, 255, 255) !important;
+   background: rgb(235, 237, 239) !important;
 }
 .textArea-12jD-V > .markup-2BOw-j {
    color: rgb(0, 0, 0) !important;
@@ -9,16 +9,20 @@
 .icon-3D60ES,
 .sprite-2iCowe {
    filter: none !important;
-   fill: rgb(79, 84, 92) !important;
-   color: rgb(79, 84, 92) !important;
+   fill: rgb(103, 110, 121) !important;
+   color: rgb(103, 110, 121) !important;
 }
+
 .before_inlineCode-1G9rTK,
 .inlineCode-2ngu6Y,
 .after_inlineCode-1KfVgj {
-   background: rgb(200, 200, 200);
+   background: rgb(215, 215, 215);
    color: rgb(0, 0, 0);
 }
 .codeBlockSyntax-2i-tMA,
 .codeBlockText-9TnoxQ {
    color: rgb(0, 0, 0);
+}
+.slateTextArea-1Mkdgw > .blockquoteContainer-U5TVEi > .blockquoteDivider-2hH8H6 {
+   background: rgb(199, 204, 209) !important;
 }
