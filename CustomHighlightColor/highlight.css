@@ -10,23 +10,28 @@
 }
 
 /* Pings. */
-.mentioned-xhSam7, .mentioned-xhSam7.selected-2P5D_Z, .mentioned-xhSam7.groupStart-23k01U.selected-2P5D_Z, .mentioned-xhSam7.wrapper-2a6GCs.cozy-3raOZG {
+.mentioned-xhSam7, .mentioned-xhSam7.selected-2P5D_Z,
+.mentioned-xhSam7.groupStart-23k01U.selected-2P5D_Z,
+.mentioned-xhSam7.wrapper-2a6GCs.cozy-3raOZG {
    background: var(--background-mentioned);
 }
 .mentioned-xhSam7:before {
    background: var(--background-mentioned-side);
 }
-.mentioned-xhSam7.selected-2P5D_Z, .mouse-mode.full-motion .mentioned-xhSam7:hover  {
+.mentioned-xhSam7.selected-2P5D_Z,
+.mouse-mode.full-motion .mentioned-xhSam7:hover  {
    background: var(--background-mentioned-hover);
 }
 
 /* Clyde Notifications. */
-.localBot-GrCgVt, .localBot-GrCgVt.groupStart-23k01U.selected-2P5D_Z {
+.localBot-GrCgVt,
+.localBot-GrCgVt.groupStart-23k01U.selected-2P5D_Z {
    background: var(--clyde-default);
 } 
 .localBot-GrCgVt:before {
    background: var(--clyde-side)
 }
-.localBot-GrCgVt.selected-2P5D_Z, .mouse-mode.full-motion .localBot-GrCgVt:hover {
+.localBot-GrCgVt.selected-2P5D_Z,
+.mouse-mode.full-motion .localBot-GrCgVt:hover {
    background: var(--clyde-hover);
 }
