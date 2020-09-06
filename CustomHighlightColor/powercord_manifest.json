@@ -1,0 +1,9 @@
+{
+    "name": "Custom Ping + Clyde Colors",
+    "description": "Customize ping colors and Clyde's notification color.",
+    "version": "1.0.0",
+    "author": "LuckFire#4800",
+    "theme": "highlight.css",
+    "consent": "false",
+    "license": "MIT"
+}
