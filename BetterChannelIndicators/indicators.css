@@ -31,7 +31,7 @@
 .modeUnread-1zpFdA {
     background: var(--unread-bg) !important;
     border-left: 2px solid var(--unread-badge) !important;
-    border-radius: var(--bg-rounding)
+    border-radius: var(--bg-rounding) !important;
 }
 .modeUnread-1zpFdA > .content-3at_AU > .mainContent-ENyL1r > svg {
     margin-left: -2px
@@ -49,6 +49,6 @@
     background: rgba(0,0,0,0) !important;
 }
 .wrapper-1ucjTd:hover {
-    background:var(--hovered-bg) !important;
+    background: var(--hovered-bg);
     border-radius: var(--bg-rounding) !important
 }
