@@ -1,6 +1,6 @@
 {
-    "name": "White Chatbar",
-    "description": "If you're using dark theme but want a white chatbar, this will do that.",
+    "name": "Custom Link Colors",
+    "description": "Add some spice to the coloring of links.",
     "version": "1.0.0",
     "author": "LuckFire#48000",
     "theme": "linkcolors.css",
