@@ -2,9 +2,9 @@
    --background-mentioned-side: rgb(114, 137, 218);
    --background-mentioned: rgba(114, 137, 218, 0.05);
    --background-mentioned-hover: rgba(114, 137, 218, 0.12);
-   --clyde-side: rgb(240, 71, 71); 
-   --clyde-default: rgba(240, 71, 71, 0.05);
-   --clyde-hover: rgba(240, 71, 71, 0.12);
+   --local-bot-side: rgb(240, 71, 71); 
+   --local-bot-default: rgba(240, 71, 71, 0.05);
+   --local-bot-hover: rgba(240, 71, 71, 0.12);
 }
 
 /* Pings. */
@@ -17,12 +17,12 @@
 /* Clyde Notifications. */
 .localBot-GrCgVt,
 .localBot-GrCgVt.groupStart-23k01U.selected-2P5D_Z {
-   background: var(--clyde-default);
+   background: var(--local-bot-default);
 } 
 .localBot-GrCgVt:before {
-   background: var(--clyde-side)
+   background: var(--local-bot-side)
 }
 .localBot-GrCgVt.selected-2P5D_Z,
 .mouse-mode.full-motion .localBot-GrCgVt:hover {
-   background: var(--clyde-hover);
+   background: var(--local-bot-hover);
 }
