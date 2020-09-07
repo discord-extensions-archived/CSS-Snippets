@@ -1,10 +1,15 @@
-/* Change link colors. */
-[target="_blank"][role="button"], .fakeLink-26oLcc {
-   color: var(--main-color);
+:root {
+   --text-link: rgb(135, 206, 235) !important;
+   --text-link-hover: rgb(30, 144, 255);
+   --text-link-author: rgb(255, 255, 255);
 }
-.anchorUnderlineOnHover-2ESHQB:hover, .fakeLink-26oLcc:hover {
-   color: var(--hover-color);
+
+/* Hovering on a link */
+.anchorUnderlineOnHover-2ESHQB:hover,
+.fakeLink-26oLcc:hover {
+   color: var(--text-link-hover);
 }
-.embedAuthorNameLink-1gVryT {
-   color: var(--author-color) !important;
+/* Author of a video/tweet/whatever else uses the author element. */
+.embedAuthorNameLink-1gVryT { 
+   color: var(--text-link-author);
 }
