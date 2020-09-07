@@ -2,7 +2,7 @@
 If you're using dark theme but want a white chatbar, this will do that.
 
 ## Preview
-![Preview](https://cdn.discordapp.com/attachments/738968109288914976/752283695125364806/unknown.png)
+![Preview](https://cdn.discordapp.com/attachments/738968109288914976/752322486938632263/unknown.png)
 ![Preview2](https://cdn.discordapp.com/attachments/738968109288914976/752281020992061515/unknown.png)  
 
 ## Installtion
