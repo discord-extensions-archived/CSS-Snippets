@@ -1,5 +1,5 @@
-# CSS Snippets for Powercord
-These are some unoriginal, random CSS snippets I threw together for importing into themes. If you wanna use these in any themes that you're making, go ahead. But be warned that nothing is coded to look pretty or be the best possible way to be coded, they're only intended to work as is.
+# CSS Snippets for Powercord / BetterDiscord
+These are some random CSS snippets I decided to throw together for either importing into themes or just using as is. If you wanna use these for themes, feel free to. Also note that these probably aren't coded the best way that they could be coded, they're only intended to work as is. These should work on both Powercord and BetterDiscord
 
 ## More Rounded Borders
 Make borders that are some-what rounded more rounded.
