@@ -14,7 +14,8 @@
 .input-cIJ7To,
 .accountBtnInner-sj5jLs,
 .cardPrimaryEditable-3KtE4g,
-.content-1LAB8Z > .message-2qRu38 {
+.content-1LAB8Z > .message-2qRu38,
+.itemCard-v9viV7 {
    border-radius: 25px !important;
 }
 
@@ -41,7 +42,8 @@
 .uploadModal-2ifh8j,
 .flexCenter-3_1bcw:before,
 .autocomplete-1vrmpx, .selectorSelected-1_M1WV,
-.menu-3sdvDG{
+.menu-3sdvDG,
+.inset-3sAvek {
    border-radius: 15px !important;
 }
 
