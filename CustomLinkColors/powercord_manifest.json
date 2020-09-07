@@ -1,0 +1,9 @@
+{
+    "name": "White Chatbar",
+    "description": "If you're using dark theme but want a white chatbar, this will do that.",
+    "version": "1.0.0",
+    "author": "LuckFire#48000",
+    "theme": "linkcolors.css",
+    "consent": "false",
+    "license": "MIT"
+}

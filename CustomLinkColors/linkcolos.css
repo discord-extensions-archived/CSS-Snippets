@@ -1,0 +1,10 @@
+/* Change link colors. */
+[target="_blank"][role="button"], .fakeLink-26oLcc {
+   color: var(--main-color);
+}
+.anchorUnderlineOnHover-2ESHQB:hover, .fakeLink-26oLcc:hover {
+   color: var(--hover-color);
+}
+.embedAuthorNameLink-1gVryT {
+   color: var(--author-color) !important;
+}
