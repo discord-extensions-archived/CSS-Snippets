@@ -15,7 +15,7 @@ If you'd like to import this snippet, go to your **Themes tab, open Quick CSS** 
 If you're using dark theme but want a white chatbar, this will do that.
 
 ### Preview
-![Preview](https://cdn.discordapp.com/attachments/738968109288914976/752343535180841010/unknown.png)  
+![Preview](https://cdn.discordapp.com/attachments/738968109288914976/752401843036094494/unknown.png)  
 ![Preview](https://cdn.discordapp.com/attachments/738968109288914976/752322486938632263/unknown.png)
 
 ### Installtion
