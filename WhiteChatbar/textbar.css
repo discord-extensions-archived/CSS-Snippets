@@ -8,10 +8,12 @@
 .scrollableContainer-2NUZem {
    background: var(--primary-background-color) !important;
 }
+
 .textArea-12jD-V > .markup-2BOw-j {
    color: var(--text-interactive-color) !important;
    caret-color: var(--text-interactive-color) !important;
 }
+
 .attachButtonPlus-jWVFah,
 .icon-3D60ES,
 .sprite-2iCowe {
@@ -19,15 +21,19 @@
    fill: var(--icon-color) !important;
    color: var(--icon-color) !important;
 }
+
 .slateTextArea-1Mkdgw > .blockquoteContainer-U5TVEi > .blockquoteDivider-2hH8H6 {
    background: rgb(199, 204, 209) !important;
 }
+
 .before_inlineCode-1G9rTK,
 .inlineCode-2ngu6Y,
-.after_inlineCode-1KfVgj {
+.after_inlineCode-1KfVgj,
+.spoiler-2Iew8T {
    background: var(--secondary-background-color);
    color: var(--text-interactive-color);
 }
+
 .codeBlockSyntax-2i-tMA,
 .codeBlockText-9TnoxQ {
    color: var(--text-interactive-color);
