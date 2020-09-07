@@ -1,6 +1,6 @@
 {
-    "name": "White Chatbar",
-    "description": "If you're using dark theme but want a white chatbar, this will do that.",
+    "name": "Better Channel Indicators",
+    "description": "Inspired by hellbound's Modern Indicators, I've remade this but made them a bit better.",
     "version": "1.0.0",
     "author": "LuckFire#48000",
     "theme": "indicators.css",
