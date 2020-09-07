@@ -31,10 +31,10 @@
 .after_inlineCode-1KfVgj,
 .spoiler-2Iew8T {
    background: var(--secondary-background-color);
-   color: var(--text-interactive-color);
+   color: var(--text-interactive-color) !important;
 }
 
 .codeBlockSyntax-2i-tMA,
 .codeBlockText-9TnoxQ {
-   color: var(--text-interactive-color);
+   color: var(--text-interactive-color) !important;
 }
