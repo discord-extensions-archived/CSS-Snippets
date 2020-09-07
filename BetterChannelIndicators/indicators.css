@@ -29,7 +29,7 @@
 
 /* Unread Channels */
 .modeUnread-1zpFdA {
-    background: var(--unread-bg) !important;
+    background: var(--unread-bg);
     border-left: 2px solid var(--unread-badge) !important;
     border-radius: var(--bg-rounding) !important;
 }
@@ -40,11 +40,15 @@
     display: none !important;
 }
 
-
-.content-3at_AU, .layout-2DM8Md {
-    background: rgba(0,0,0,0) !important;
-}
-.wrapper-1ucjTd:hover {
+/* Hovering on channels */
+.wrapper-1ucjTd:hover,
+.modeUnread-1zpFdA:hover {
     background: var(--hovered-bg);
     border-radius: var(--bg-rounding) !important
+}
+
+
+.content-3at_AU, 
+.layout-2DM8Md {
+    background: rgba(0,0,0,0) !important;
 }
