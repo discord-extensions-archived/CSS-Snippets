@@ -40,12 +40,18 @@
 .integration-3kMeY4,
 .uploadModal-2ifh8j,
 .flexCenter-3_1bcw:before,
-.autocomplete-1vrmpx, .selectorSelected-1_M1WV {
+.autocomplete-1vrmpx, .selectorSelected-1_M1WV,
+.menu-3sdvDG{
    border-radius: 15px !important;
 }
 
+
 .footer-3mqk7D {
    border-radius: 0px 0px 15px 15px !important;
+}
+
+.item-1tOPte {
+   border-radius: 6.5px !important;
 }
 
 .inputWrapper-31_8H8:before {
