@@ -1,9 +1,9 @@
 :root {
-   --unread-badge: rgba(255,255,255,0.6) !important;
-   --unread-bg: rgba(255, 255, 255, 0.01) !important;
-   --selected-badge: rgb(112, 135, 215) !important;
-   --selected-bg: rgba(112, 135, 215, 0.1) !important;
-   --hovered-bg: rgba(79,84,92,0.25) !important;
+   --unread-badge: rgba(255,255,255,0.6);
+   --unread-bg: rgba(255, 255, 255, 0.01);
+   --selected-badge: rgb(112, 135, 215);
+   --selected-bg: rgba(112, 135, 215, 0.1);
+   --hovered-bg: rgba(79,84,92,0.25);
    --bg-rounding: 0px 10px 10px 0px
 }
 
@@ -12,8 +12,8 @@
 .modeSelected-1zApJ_:hover,
 .channel-2QD9_O.container-2Pjhx-.selected-aXhQR6 {
     background: var(--selected-bg) !important;
-    border-left: 2px solid var(--selected-badge);
-    border-radius: var(--bg-rounding)
+    border-left: 2px solid var(--selected-badge) !important;
+    border-radius: var(--bg-rounding) !important
 }
 .modeSelected-1zApJ_ > .content-3at_AU > .mainContent-ENyL1r > svg,
 .channel-2QD9_O.container-2Pjhx-.selected-aXhQR6 > .layout-2DM8Md > .content-3QAtGj,
@@ -29,8 +29,8 @@
 
 /* Unread Channels */
 .modeUnread-1zpFdA {
-    background: var(--unread-bg);
-    border-left: 2px solid var(--unread-badge);
+    background: var(--unread-bg) !important;
+    border-left: 2px solid var(--unread-badge) !important;
     border-radius: var(--bg-rounding)
 }
 .modeUnread-1zpFdA > .content-3at_AU > .mainContent-ENyL1r > svg {
@@ -49,6 +49,6 @@
     background: rgba(0,0,0,0) !important;
 }
 .wrapper-1ucjTd:hover {
-    background:var(--hovered-bg);
-    border-radius: var(--bg-rounding)
+    background:var(--hovered-bg) !important;
+    border-radius: var(--bg-rounding) !important
 }
