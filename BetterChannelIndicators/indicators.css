@@ -15,26 +15,12 @@
     border-left: 2px solid var(--selected-badge) !important;
     border-radius: var(--bg-rounding) !important
 }
-.modeSelected-1zApJ_ > .content-3at_AU > .mainContent-ENyL1r > svg,
-.channel-2QD9_O.container-2Pjhx-.selected-aXhQR6 > .layout-2DM8Md > .content-3QAtGj,
-.channel-2QD9_O.container-2Pjhx-.selected-aXhQR6 > .layout-2DM8Md > .avatar-3uk_u9 > .wrapper-3t9DeA > svg  {
-    margin-left: -2px
-}
-.channel-2QD9_O.container-2Pjhx-.selected-aXhQR6 > .layout-2DM8Md > .avatar-3uk_u9 > svg {
-    margin-left: -4px !important
-}
-.channel-2QD9_O {
-    margin-left: 0px
-}
 
 /* Unread Channels */
 .modeUnread-1zpFdA {
     background: var(--unread-bg);
     border-left: 2px solid var(--unread-badge) !important;
     border-radius: var(--bg-rounding) !important
-}
-.modeUnread-1zpFdA > .content-3at_AU > .mainContent-ENyL1r > svg {
-    margin-left: -2px
 }
 .unread-3zKkbm {
     display: none !important
@@ -45,6 +31,20 @@
 .modeUnread-1zpFdA:hover {
     background: var(--hovered-bg);
     border-radius: var(--bg-rounding) !important
+}
+
+/* Centering Fixes */
+.modeSelected-1zApJ_ > .content-3at_AU > .mainContent-ENyL1r > svg,
+.channel-2QD9_O.container-2Pjhx-.selected-aXhQR6 > .layout-2DM8Md > .content-3QAtGj,
+.channel-2QD9_O.container-2Pjhx-.selected-aXhQR6 > .layout-2DM8Md > .avatar-3uk_u9 > .wrapper-3t9DeA > svg,
+.modeUnread-1zpFdA > .content-3at_AU > .mainContent-ENyL1r > svg  {
+    margin-left: -2px
+}
+.channel-2QD9_O.container-2Pjhx-.selected-aXhQR6 > .layout-2DM8Md > .avatar-3uk_u9 > svg {
+    margin-left: -4px !important
+}
+.channel-2QD9_O {
+    margin-left: 0px
 }
 
 
