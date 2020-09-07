@@ -1,6 +1,6 @@
 {
     "name": "Better Channel Indicators",
-    "description": "Inspired by hellbound's Modern Indicators, I've remade this but made them a bit better.",
+    "description": "Make Discord's boring channel indicators look better.",
     "version": "1.0.0",
     "author": "LuckFire#48000",
     "theme": "indicators.css",
