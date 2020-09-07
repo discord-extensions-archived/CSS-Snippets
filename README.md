@@ -3,6 +3,7 @@ These are some random CSS snippets I decided to throw together for either import
 ### If you'd like to import all of these snippets, go to your Themes folder, open a command prompt / powershell / terminal / or git bash and run:
 
 	git clone https://github.com/LuckFire/CSS-Snippets
+### After importing them, you'll have to drag them all out of the CSS-Snippets folder into your theme folder. I still suggest just grabbing every import link listed below and using them since it's easier, but do as you wish.
 
 
 ## More Rounded Borders
