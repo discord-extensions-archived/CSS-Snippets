@@ -7,7 +7,7 @@ These are some random CSS snippets I decided to throw together for either import
 
 
 ## More Rounded Borders
-Make borders that are some-what rounded more rounded.
+Make borders that are some-what rounded more rounded. Inspired by Hellbound.
 ### Preview
 ![Preview ](https://cdn.discordapp.com/attachments/738968109288914976/751152635196735528/unknown.png)
 ### Installtion
@@ -17,7 +17,7 @@ If you'd like to import this snippet, go to your **Themes tab, open Quick CSS** 
   
 
 ## White Chatbar
-If you're using dark theme but want a white chatbar, this will do that.
+If you're using dark theme but want a white chatbar, this will do that. Inspired by CapnKitten.
 
 ### Preview
 ![Preview](https://cdn.discordapp.com/attachments/738968109288914976/752401843036094494/unknown.png)  
@@ -67,7 +67,7 @@ If you'd like to import this snippet, go to your  **Themes tab, open Quick CSS**
 	}
 
 ## Better Channel Indicators
-Inspired by hellbound's Modern Indicators, I've remade this but made them a bit better.
+Make Discord's boring channel indicators look better. Inspired by hellbound.
 
 ### Preview
 ![Preview](https://cdn.discordapp.com/attachments/738968109288914976/752394554812137502/unknown.png)
