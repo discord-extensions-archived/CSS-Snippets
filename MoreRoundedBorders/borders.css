@@ -1,70 +1,103 @@
-.scrollableContainer-2NUZem, 
-.radioGroup-1GBvlr > .directionRow-3v3tfG, .side-8zPYf6 > .item-PXvHYJ,
-.item-3HknzM,
-.side-8zPYf6,
+/* 25px Borders */
 .button-38aScr,
+.item-26Dhrx,
+.side-8zPYf6 > .item-PXvHYJ,
+.scrollableContainer-2NUZem,
 .checkbox-1ix_J3,
-.select-2TCrqx,
-.css-1a8reka-control, .css-gd8if9-control, .container-CpszHS,
-.authedApp-mj2Hmd,
-.codeRedemptionRedirect-1wVR4b,
-.inputDefault-_djjkz,
-.container-cMG81i,
-.searchBar-3dMhjb, .searchBarComponent-32dTOx,
-.layout-2DM8Md,
-.input-cIJ7To,
-.accountBtnInner-sj5jLs,
-.cardPrimaryEditable-3KtE4g,
-.itemCard-v9viV7 {
-   border-radius: 25px !important;
+.userInfoViewing-16kqK3,
+.userInfoEditing-1CEzdT,
+.input-cIJ7To, 
+.css-1a8reka-control,
+.css-gd8if9-control,
+.container-CpszHS,
+.gameNameInput-385LoS,
+.searchBar-3dMhjb,
+.searchBarComponent-32dTOx,
+.copyInputDefault-21sXtF,
+.addInputWrapper-1BOZ3d > .wrapper-1cBijl,
+.inputWrapper-31_8H8,
+.container-1s4HBn,
+.draggable-1EOU8o,
+.searchBar-1YE5UV {
+   border-radius: 25px !important
 }
-
-.accountCredit-2hUNux,
-.iconBackgroundTier2-2TeI3a, .iconBackgroundTier1-2GOcU8,
-.banner-3Kac2g,
-.detailsBlock-FoDTGA,
-.previewContainer-37c2Si,
-.activeGame-14JI7o,
-.preview-2nSL_2,
-.userPopout-3XzG_A, .flex-1xMQg5, 
-.contentWrapper-SvZHNd, .emojiPicker-3PwZFl,
-.recentMentionsPopout-3rCiI6,
+/* 20px Borders */
+.formNotice-2_hHWR, 
+.accountList-33MS45, 
+.banner-3Kac2g, .wrapper-3jrx9n,
+.powercord-product,
+.powercord-entities-manage-tabs,
+.descriptionBox-1EKQKL,
+.upsellContainer-L9xv7w,
+.userPopout-3XzG_A,
+.inner-1ilYF7 > .flex-1xMQg5,
+.quickswitcher-3JagVE,
+.uploadModal-2ifh8j {
+   border-radius: 20px 
+}
+/* 15px Border */
+.authedApp-mj2Hmd, 
 .connection-1fbD7X,
-.accountList-33MS45,
+.detailsBlock-FoDTGA,
+.accountCredit-2hUNux,
 .cardWrapper-2Min21, .card-3AyPWq,
 .wrapper-3nSjSv,
 .membershipDialog-rVL-t_,
-.powercord-account,
-.formNotice-2_hHWR,
-.card-3Qj_Yx,
-.root-1ANs48,
-.integration-3kMeY4,
-.uploadModal-2ifh8j,
+.previewContainer-37c2Si,
+.marginBottom20-32qID7 > .formNotice-2_hHWR,
+.option-n0icdO,
 .flexCenter-3_1bcw:before,
-.autocomplete-1vrmpx, .selectorSelected-1_M1WV,
+.preview-2nSL_2,
+.codeRedemptionRedirect-1wVR4b,
+.powercord-account,
+.card-o7rAq-,
+.featureCard-1RR4Tl,
+.itemCard-v9viV7,
+.card-FDVird:before,
+.checklistContainer-mFJZEJ,
+.container-3JTnYm {
+   border-radius: 15px
+}
+/* 10px Borders */
+.children-rWhLdy > .flexCenter-3_1bcw,
 .menu-3sdvDG,
-.inset-3sAvek,
-.content-1LAB8Z > .message-2qRu38, 
-.root-1gCeng {
-   border-radius: 15px !important;
-}
-
-.customItem-a8hq58 > .button-F9qN4n,
-.item-1tOPte {
-   border-radius: 6.5px !important;
+.input-2VB9rf,
+.inset-3sAvek {
+   border-radius: 10px
 }
 
 
-.footer-3mqk7D {
-   border-radius: 0px 0px 15px 15px !important;
+/* Specific Border Changes */
+.css-2yldzf-control,
+.checklistHeader-1KWcEY,
+.tierHeaderUnlocked-2RhWqn,
+.tierHeaderLocked-1a2opw { /* Top 15px */
+   border-radius: 15px 15px 0px 0px;
+}
+.css-n57xjs-menu,
+.tierBody-x9kBBp { /* Bottom 15px */
+   border-radius: 0px 0px 15px 15px;
+}
+
+.upsellContainer-L9xv7w > .upsellFooter-ZYsio_,
+.uploadModal-2ifh8j > .footer-3mqk7D { /* Bottom 15px */
+   border-radius: 0px 0px 20px 20px;
+}
+
+.searchFilter-2ESiM3 { /* Top left Bottom Left 10px */
+   border-radius: 10px 0px 0px 10px;
+}
+.searchAnswer-3Dz2-q { /* Top right bottom right 10px */
+   border-radius: 0px 10px 10px 0px;
+}
+
+
+/* other changes */
+.accountCreditRow-SHgyi0:not(:last-child) { /* thank u hellbound */
+   padding-bottom: 16px;
+   border-bottom: none;
 }
 
 .inputWrapper-31_8H8:before {
    display: none;
-}
-
-/* thank u hellbound */
-.accountCreditRow-SHgyi0:not(:last-child) {
-   padding-bottom: 16px;
-   border-bottom: none;
 }
