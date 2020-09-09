@@ -1,5 +1,5 @@
-# CSS Snippets for Powercord / BetterDiscord
-These are some random CSS snippets I decided to throw together for either importing into themes or just using as is. If you wanna use these for themes, feel free to. Also note that these probably aren't coded the best way that they could be coded, they're only intended to work as is. These should work on both Powercord and BetterDiscord
+# CSS Snippets for Powercord
+These are some random CSS snippets I decided to throw together for either importing into themes or just using as is. If you wanna use these for themes, feel free to. Also note that these probably aren't coded the best way that they could be coded, they're only intended to work as is. 
 ### If you'd like to import all of these snippets, go to your Themes folder, open a command prompt / powershell / terminal / or git bash and run:
 
 	git clone https://github.com/LuckFire/CSS-Snippets
