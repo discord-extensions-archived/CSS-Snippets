@@ -19,7 +19,8 @@
 .container-1s4HBn,
 .draggable-1EOU8o,
 .searchBar-1YE5UV,
-.autocompleteRowVertical-q1K4ky > .selector-2IcQBU {
+.autocompleteRowVertical-q1K4ky > .selector-2IcQBU,
+.searchBar--fTZYa {
    border-radius: 25px !important
 }
 /* 20px Borders */
@@ -33,7 +34,8 @@
 .userPopout-3XzG_A,
 .inner-1ilYF7 > .flex-1xMQg5,
 .quickswitcher-3JagVE,
-.uploadModal-2ifh8j {
+.uploadModal-2ifh8j,
+.hero-EvfTTA {
    border-radius: 20px 
 }
 /* 15px Border */
@@ -57,7 +59,10 @@
 .card-FDVird:before,
 .checklistContainer-mFJZEJ,
 .container-3JTnYm,
-.autocomplete-1vrmpx {
+.autocomplete-1vrmpx,
+.feature-2w65J5,
+.contentWrapper-SvZHNd,
+.searchBar-5di9mG {
    border-radius: 15px
 }
 /* 10px Borders */
