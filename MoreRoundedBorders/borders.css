@@ -15,8 +15,7 @@
 .input-cIJ7To,
 .accountBtnInner-sj5jLs,
 .cardPrimaryEditable-3KtE4g,
-.itemCard-v9viV7,
-.root-1gCeng {
+.itemCard-v9viV7 {
    border-radius: 25px !important;
 }
 
@@ -45,7 +44,8 @@
 .autocomplete-1vrmpx, .selectorSelected-1_M1WV,
 .menu-3sdvDG,
 .inset-3sAvek,
-.content-1LAB8Z > .message-2qRu38 {
+.content-1LAB8Z > .message-2qRu38, 
+.root-1gCeng {
    border-radius: 15px !important;
 }
 
