@@ -1,5 +1,5 @@
 # More Rounded Borders
-Make borders that are some-what rounded more rounded. Inspired by hellbound
+Make borders that are some-what rounded more rounded. Inspired by hellbound's Discord Revamp theme.
 
 ## Preview
 ![Preview ](https://cdn.discordapp.com/attachments/738968109288914976/751152635196735528/unknown.png)
