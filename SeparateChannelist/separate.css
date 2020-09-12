@@ -1,0 +1,25 @@
+:root {
+   --border-radius: 15px 15px 0 0;
+   --left-radius: 5px;
+   --right-radius: 5px;
+}
+
+.sidebar-2K8pFh,
+.chat-3bRxxu,
+.container-1D34oG {
+   border-radius: var(--border-radius) !important
+}
+.chat-3bRxxu,
+.container-1D34oG,
+.scrollerInner-2YIMLh  {
+   position: relative;
+   left: var(--left-radius)
+}
+.membersWrap-2h-GB4, 
+.chatContent-a9vAAp,
+.title-3qD0b-,
+.nowPlayingColumn-2sl4cE, 
+.peopleColumn-29fq28 > .scrollerBase-289Jih {
+   position: relative;
+   right: var(--right-radius)
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Separate Chanenlist",
+    "description": "Separate the channelist from the chatbox.",
+    "version": "1.0.0",
+    "author": "LuckFire#48000",
+    "theme": "separate.css",
+    "consent": "false",
+    "license": "MIT"
+}
