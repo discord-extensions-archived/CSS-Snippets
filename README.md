@@ -7,7 +7,7 @@ These are some random CSS snippets I decided to throw together for either import
 
 
 ## More Rounded Borders
-Make borders that are some-what rounded more rounded. Inspired by Hellbound.
+Make borders that are some-what rounded more rounded. Inspired by hellbound's Discord Revamp theme.
 ### Preview
 ![Preview ](https://cdn.discordapp.com/attachments/738968109288914976/751152635196735528/unknown.png)
 ### Installtion
@@ -17,7 +17,7 @@ If you'd like to import this snippet, go to your **Themes tab, open Quick CSS** 
   
 
 ## White Chatbar
-If you're using dark theme but want a white chatbar, this will do that. Inspired by CapnKitten.
+If you're using dark theme but want a white chatbar, this will do that. Inspired by CapnKitten's Spotify Discord theme.
 
 ### Preview
 ![Preview](https://cdn.discordapp.com/attachments/738968109288914976/752401843036094494/unknown.png)  
