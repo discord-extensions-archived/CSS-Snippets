@@ -2,7 +2,7 @@
 Make borders that are some-what rounded more rounded. Inspired by hellbound's Discord Revamp theme.
 
 ## Preview
-![Preview ](https://cdn.discordapp.com/attachments/738968109288914976/751152635196735528/unknown.png)
+![Preview](https://cdn.discordapp.com/attachments/399424790764716033/754252422033178694/unknown.png)
 
 ## Installtion
 If you'd like to import this snippet, go to your **Themes tab, open Quick CSS** and paste the following: 
