@@ -7,6 +7,7 @@ These are some random CSS snippets I decided to throw together for either import
 ### After you import them, you'll have to drag them all out of the CSS-Snippets folder into your themes folder. I suggest that instead of doing this, you should use @import because you keep your folder clean and have better management over all of them, but do as you wish.
 
 # Imports
+Below are listed all of the import links so you don't have to separately get all of them. You're welcome :^)
 ## Better Channel Indicators
 ```
 @import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/BetterChannelIndicators/indicators.css");
