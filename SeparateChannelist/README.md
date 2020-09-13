@@ -11,6 +11,6 @@ If you'd like to import this snippet, go to your  **Themes tab, open Quick CSS**
 	
     :root {
         --border-radius: 15px 15px 0 0;
-        --left-radius: 5px;
-        --right-radius: 5px;
+        --left-positioning: 5px;
+        --right-padding: 5px;
     }
