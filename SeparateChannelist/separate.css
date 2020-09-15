@@ -8,14 +8,16 @@
 .chat-3bRxxu,
 .container-3Mxszk,
 .container-1D34oG,
-.applicationStore-1pNvnv {
+.applicationStore-1pNvnv,
+.pageWrapper-1PgVDX{
    border-radius: var(--border-radius) !important
 }
 
 .chat-3bRxxu,
 .container-1D34oG,
 .container-3Mxszk,
-.applicationStore-1pNvnv {
+.applicationStore-1pNvnv,
+.pageWrapper-1PgVDX{
    position: relative;
    left: var(--left-positioning);
    padding-right: var(--right-padding)
