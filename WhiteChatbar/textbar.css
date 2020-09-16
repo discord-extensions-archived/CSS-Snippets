@@ -5,7 +5,7 @@
     --icon-color: var(--background-accent)
 }
  
-.scrollableContainer-2NUZem {
+.channelTextArea-3bF57p {
     background-color: var(--primary-background-color) !important
 }
  
@@ -39,6 +39,7 @@
     color: var(--text-interactive-color) !important
 }
  
-.textArea-12jD-V > div > div > [data-slate-object] >  .mention  {
+.textArea-12jD-V > div > div > [data-slate-object] >  .mention,
+.slateTextArea-1Mkdgw > div > [data-slate-object] > .mention {
     background: rgba(114, 137, 218, 0.3) !important
 }
