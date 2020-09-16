@@ -30,7 +30,7 @@
 .inlineCode-2ngu6Y,
 .after_inlineCode-1KfVgj,
 .spoiler-2Iew8T {
-    background: var(--secondary-background-color);
+    background: var(--secondary-background-color) !important;
     color: var(--text-interactive-color) !important
 }
  
@@ -40,5 +40,5 @@
 }
  
 .textArea-12jD-V > div > div > [data-slate-object] >  .mention  {
-    background: rgba(114, 137, 218, 0.3)
+    background: rgba(114, 137, 218, 0.3) !important
 }
