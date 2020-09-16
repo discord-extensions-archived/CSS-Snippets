@@ -38,3 +38,7 @@
 .codeBlockText-9TnoxQ {
    color: var(--text-interactive-color) !important;
 }
+
+.textArea-12jD-V > div > div > [data-slate-object] >  .mention  {
+   background: rgba(114, 137, 218, 0.3)
+}
