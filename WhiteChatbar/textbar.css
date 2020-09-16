@@ -1,5 +1,5 @@
 :root {
-   --primary-background-color: rgb(235, 237, 239);
+    --primary-background-color: rgb(235, 237, 239);
     --secondary-background-color: rgb(215, 215, 215);
     --text-interactive-color: rgb(46, 51, 56); 
     --icon-color: var(--background-accent)
