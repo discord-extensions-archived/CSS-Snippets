@@ -1,44 +1,44 @@
 :root {
-   --primary-background-color: rgb(235, 237, 239);
-   --secondary-background-color: rgb(215, 215, 215);
-   --text-interactive-color: rgb(46, 51, 56); 
-   --icon-color: rgb(103, 110, 121);
+    --channeltextarea-background: rgb(235, 237, 239) !important;
+    --secondary-background-color: rgb(215, 215, 215);
+    --text-interactive-color: rgb(46, 51, 56); 
+    --icon-color: var(--background-accent)
 }
-
+ 
 .scrollableContainer-2NUZem {
-   background: var(--primary-background-color) !important;
+    background-color: var(--channeltextarea-background) !important
 }
-
+ 
 .textArea-12jD-V > .markup-2BOw-j {
-   color: var(--text-interactive-color) !important;
-   caret-color: var(--text-interactive-color) !important;
+    color: var(--text-interactive-color) !important;
+    caret-color: var(--text-interactive-color) !important
 }
-
+ 
 .attachButtonPlus-jWVFah,
 .icon-3D60ES,
 .sprite-2iCowe {
-   filter: none !important;
-   fill: var(--icon-color) !important;
-   color: var(--icon-color) !important;
+    filter: none !important;
+    fill: var(--icon-color) !important;
+    color: var(--icon-color) !important
 }
-
+ 
 .slateTextArea-1Mkdgw > .blockquoteContainer-U5TVEi > .blockquoteDivider-2hH8H6 {
-   background: rgb(199, 204, 209) !important;
+    background: rgb(199, 204, 209) !important
 }
-
+ 
 .before_inlineCode-1G9rTK,
 .inlineCode-2ngu6Y,
 .after_inlineCode-1KfVgj,
 .spoiler-2Iew8T {
-   background: var(--secondary-background-color);
-   color: var(--text-interactive-color) !important;
+    background: var(--secondary-background-color);
+    color: var(--text-interactive-color) !important
 }
-
+ 
 .codeBlockSyntax-2i-tMA,
 .codeBlockText-9TnoxQ {
-   color: var(--text-interactive-color) !important;
+    color: var(--text-interactive-color) !important
 }
-
+ 
 .textArea-12jD-V > div > div > [data-slate-object] >  .mention  {
-   background: rgba(114, 137, 218, 0.3)
+    background: rgba(114, 137, 218, 0.3)
 }
