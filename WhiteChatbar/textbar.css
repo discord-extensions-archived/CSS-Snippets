@@ -5,7 +5,8 @@
     --icon-color: var(--background-accent)
 }
  
-.channelTextArea-3bF57p {
+.channelTextArea-3bF57p,
+.scrollableContainer-2NUZem > .inner-MADQqc {
     background-color: var(--primary-background-color) !important
 }
  
