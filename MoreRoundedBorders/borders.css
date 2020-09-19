@@ -42,7 +42,7 @@
 .hero-EvfTTA {
    border-radius: 20px 
 }
-/* 15px Border */
+/* 15px Borders */
 .authedApp-mj2Hmd, 
 .connection-1fbD7X,
 .detailsBlock-FoDTGA,
@@ -79,6 +79,7 @@
 }
 
 
+
 /* Specific Border Changes */
 .auditLog-3jNbM6 > .headerExpanded-CUEwZ5 { 
    border-radius: 25px 25px 0px 0px /* Top 25px */
@@ -104,19 +105,20 @@
 }
 
 .searchFilter-2ESiM3 { 
-   border-radius: 10px 0px 0px 10px /* Top left Bottom Left 10px */
+   border-radius: 10px 0px 0px 10px /* Top Left Bottom Left 10px */
 }
 .searchAnswer-3Dz2-q {
-   border-radius: 0px 10px 10px 0px /* Top right bottom right 10px */
+   border-radius: 0px 10px 10px 0px /* Top Right Bottom Right 10px */
 }
+
 
 
 /* other changes */
 .accountCreditRow-SHgyi0:not(:last-child) {
    padding-bottom: 16px;
-   border-bottom: none;
+   border-bottom: none
 }
 
 .inputWrapper-31_8H8:before {
-   display: none;
+   display: none
 }
