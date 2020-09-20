@@ -6,9 +6,10 @@ These are some random CSS snippets I decided to throw together for either import
 
 ### After you import them, you'll have to drag them all out of the CSS-Snippets folder into your themes folder. I suggest that instead of doing this, you should use @import in your quickcss file or some other css file because you can keep your themes folder clean and have better management over all of them, but do as you wish.
 
-# Imports
+## Imports
 Below are listed all of the import links so you don't have to separately get all of them. You're welcome :^)
-## Better Channel Indicators
+
+### Better Channel Indicators
 ```
 @import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/BetterChannelIndicators/indicators.css");
 
@@ -21,7 +22,8 @@ Below are listed all of the import links so you don't have to separately get all
         --bg-rounding: 0px 10px 10px 0px !important
 }
 ```
-## Custom Highlight Colors
+### Custom Highlight Colors
+
 ```
 @import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/CustomHighlightColor/highlight.css");
 :root {
@@ -33,9 +35,10 @@ Below are listed all of the import links so you don't have to separately get all
         --local-bot-hover: rgba(240, 71, 71, 0.12);
 }
 ```
-## Custom Link Colors
+
+### Custom Link Colors
 ```
-@import url("https://raw.githubusercontent.com/LuckFire/CSS-Snippets/master/CustomLinkColors/linkcolors.css")
+@import url("https://raw.githubusercontent.com/LuckFire/CSS-Snippets/master/CustomLinkColors/linkcolors.css");
 
 :root {
 	--text-link: rgb(135, 206, 235) !important;
@@ -43,14 +46,15 @@ Below are listed all of the import links so you don't have to separately get all
 	--text-link-author: rgb(255, 255, 255);
 }
 ```
-## More Rounded Borders
+
+### More Rounded Borders
 ```
-@import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/MoreRoundedBorders/borders.css")
+@import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/MoreRoundedBorders/borders.css");
 ```
 
-## Separate Channelist
+### Separate Channelist
 ```
-@import url("https://raw.githubusercontent.com/LuckFire/CSS-Snippets/master/SeparateChannelist/separate.css")
+@import url("https://raw.githubusercontent.com/LuckFire/CSS-Snippets/master/SeparateChannelist/separate.css");
 
 :root {
     --border-radius: 15px 15px 0 0;
@@ -59,12 +63,12 @@ Below are listed all of the import links so you don't have to separately get all
 }
 ```
 
-## White Chatbar
+### White Chatbar
 ```
-@import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/WhiteChatbar/textbar.css")
+@import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/WhiteChatbar/textbar.css");
 ```
 
-## Text Status Indicators
+### Text Status Indicators
 ```
-@import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/TextStatusIndicators/textstatus.css")
+@import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/TextStatusIndicators/textstatus.css");
 ```
