@@ -67,7 +67,12 @@
 .feature-2w65J5,
 .contentWrapper-SvZHNd,
 .searchBar-5di9mG,
-.streamPreview-2-WUWT {
+.streamPreview-2-WUWT,
+.result-3w1ZcL:after, 
+.result-3w1ZcL,
+.categoryFade-2ybR1J, 
+.categoryFadeBlurple-1j72_A,
+.gif-1TcNIB{
    border-radius: 15px
 }
 /* 10px Borders */
