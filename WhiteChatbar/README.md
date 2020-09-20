@@ -5,7 +5,7 @@ If you're using dark theme but want a white chatbar, this will do that. Inspired
 ![Preview](https://cdn.discordapp.com/attachments/738968109288914976/755880036917182524/unknown.png)  
 ![Preview](https://cdn.discordapp.com/attachments/738968109288914976/755881253043044563/unknown.png)
 
-## Installtion
+## Installation
 If you'd like to import this snippet, go to your **Themes tab, open Quick CSS** and paste the following:
 
     @import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/WhiteChatbar/textbar.css")
