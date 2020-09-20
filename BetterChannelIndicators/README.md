@@ -2,7 +2,7 @@
 Make Discord's boring channel indicators look better. Inspired by hellbound.
 
 ## Preview
-![Preview](https://cdn.discordapp.com/attachments/738968109288914976/752394554812137502/unknown.png)
+![Preview](https://raw.githubusercontent.com/LuckFire/CSS-Snippets/master/!%20Previews/BetterChannelIndicators.png)
 
 ## Installation
 If you'd like to import this snippet, go to your **Themes tab, open Quick CSS** and paste the following:
