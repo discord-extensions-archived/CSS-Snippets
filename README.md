@@ -63,3 +63,8 @@ Below are listed all of the import links so you don't have to separately get all
 ```
 @import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/WhiteChatbar/textbar.css")
 ```
+
+## Text Status Indicators
+```
+@import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/TextStatusIndicators/textstatus.css")
+```
