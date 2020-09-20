@@ -2,7 +2,7 @@
 Separate the channelist from the chatbox. 
 
 ## Preview
-![Preview](https://cdn.discordapp.com/attachments/738968109288914976/754492733816832080/unknown.png)
+![Preview](https://raw.githubusercontent.com/LuckFire/CSS-Snippets/master/!%20Previews/SeparateChannelList.png)
 
 ## Installation
 If you'd like to import this snippet, go to your  **Themes tab, open Quick CSS**  and paste the following:
