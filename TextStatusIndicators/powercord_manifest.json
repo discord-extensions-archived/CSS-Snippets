@@ -1,0 +1,9 @@
+{
+    "name": "Text Status Indicators",
+    "description": "Shows the status in text form next to the stauts icon in DMs.",
+    "version": "1.0.0",
+    "author": "LuckFire#4800",
+    "theme": "textstatus.css",
+    "consent": "false",
+    "license": "MIT"
+}
