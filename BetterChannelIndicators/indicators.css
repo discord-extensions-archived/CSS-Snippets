@@ -1,3 +1,13 @@
+:root {
+    --unread-badge: rgba(255,255,255,0.6);
+    --unread-bg: rgba(255, 255, 255, 0.01);
+    --selected-badge: rgb(112, 135, 215);
+    --selected-bg: rgba(112, 135, 215, 0.1);
+    --hovered-bg: rgba(79,84,92,0.25);
+    --bg-rounding: 0px 10px 10px 0px;
+    --border-line-type: solid
+}
+
 /* Removes original indicator stuff */
 .content-3at_AU, 
 .channel-2QD9_O > .layout-2DM8Md {
@@ -9,7 +19,7 @@
 .modeSelected-1zApJ_:hover,
 .channel-2QD9_O.container-2Pjhx-.selected-aXhQR6 {
     background: var(--selected-bg) !important;
-    border-left: 2px solid var(--selected-badge) !important;
+    border-left: 2px var(--border-line-type) var(--selected-badge) !important;
     border-radius: var(--bg-rounding) !important
 }
 
