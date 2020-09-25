@@ -5,7 +5,7 @@
     --selected-bg: rgba(112, 135, 215, 0.1);
     --hovered-bg: rgba(79,84,92,0.25);
     --bg-rounding: 0px 10px 10px 0px;
-    --border-line-type: solid
+    --border-info: 2px solid
 }
 
 /* Removes original indicator stuff */
@@ -19,14 +19,14 @@
 .modeSelected-1zApJ_:hover,
 .channel-2QD9_O.container-2Pjhx-.selected-aXhQR6 {
     background: var(--selected-bg) !important;
-    border-left: 2px var(--border-line-type) var(--selected-badge) !important;
+    border-left: var(--border-info) var(--selected-badge) !important;
     border-radius: var(--bg-rounding) !important
 }
 
 /* Unread Channels */
 .modeUnread-1zpFdA {
     background: var(--unread-bg);
-    border-left: 2px solid var(--unread-badge) !important;
+    border-left: var(--border-info) var(--unread-badge) !important;
     border-radius: var(--bg-rounding) !important
 }
 .unread-3zKkbm {
