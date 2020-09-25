@@ -39,7 +39,8 @@
 .inner-1ilYF7 > .flex-1xMQg5,
 .quickswitcher-3JagVE,
 .uploadModal-2ifh8j,
-.hero-EvfTTA {
+.hero-EvfTTA,
+.root-1gCeng {
    border-radius: 20px 
 }
 /* 15px Borders */
@@ -72,7 +73,8 @@
 .result-3w1ZcL,
 .categoryFade-2ybR1J, 
 .categoryFadeBlurple-1j72_A,
-.gif-1TcNIB{
+.gif-1TcNIB,
+.root-1gCeng > .content-1LAB8Z > .message-2qRu38 {
    border-radius: 15px
 }
 /* 10px Borders */
@@ -84,13 +86,18 @@
 }
 
 
-
 /* Specific Border Changes */
 .auditLog-3jNbM6 > .headerExpanded-CUEwZ5 { 
    border-radius: 25px 25px 0px 0px /* Top 25px */
 }
 .auditLog-3jNbM6 > .changeDetails-bk98pu { 
    border-radius: 0px 0px 25px 25px /* Bototm 25px */
+}
+
+.upsellContainer-L9xv7w > .upsellFooter-ZYsio_,
+.uploadModal-2ifh8j > .footer-3mqk7D,
+.root-1gCeng > .footer-2gL1pp{ 
+   border-radius: 0px 0px 20px 20px /* Bottom 20px */
 }
 
 .css-2yldzf-control,
@@ -104,18 +111,12 @@
    border-radius: 0px 0px 15px 15px /* Bottom 15px */
 }
 
-.upsellContainer-L9xv7w > .upsellFooter-ZYsio_,
-.uploadModal-2ifh8j > .footer-3mqk7D { 
-   border-radius: 0px 0px 20px 20px /* Bottom 20px */
-}
-
 .searchFilter-2ESiM3 { 
    border-radius: 10px 0px 0px 10px /* Top Left Bottom Left 10px */
 }
 .searchAnswer-3Dz2-q {
    border-radius: 0px 10px 10px 0px /* Top Right Bottom Right 10px */
 }
-
 
 
 /* other changes */
