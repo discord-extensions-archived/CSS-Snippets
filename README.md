@@ -20,6 +20,7 @@ Below are listed all of the import links so you don't have to separately get all
         --selected-bg: rgba(112, 135, 215, 0.1) !important;
         --hovered-bg: rgba(79,84,92,0.25) !important;
         --bg-rounding: 0px 10px 10px 0px !important
+        --border-line-type: solid !important /* For more info on different border line types, visit https://css-tricks.com/almanac/properties/b/border/ */
 }
 ```
 ### Custom Highlight Colors
