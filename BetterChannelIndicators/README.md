@@ -16,4 +16,5 @@ If you'd like to import this snippet, go to your **Themes tab, open Quick CSS** 
             --selected-bg: rgba(112, 135, 215, 0.1) !important;
             --hovered-bg: rgba(79,84,92,0.25) !important;
             --bg-rounding: 0px 10px 10px 0px !important
+            --border-line-type: solid !important /* For more info on different border line types, visit https://developer.mozilla.org/en-US/docs/Web/CSS/border */
     }
