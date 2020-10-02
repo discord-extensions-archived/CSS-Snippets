@@ -1,0 +1,9 @@
+{
+    "name": "Better Quotes",
+    "description": "Quotes that look nicer. Original idea from a snippet that snapperito posted, redone to have more consistent coding.",
+    "version": "1.0.0",
+    "author": "LuckFire#4800",
+    "theme": "quotes.css",
+    "consent": "false",
+    "license": "MIT"
+}
