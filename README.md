@@ -73,3 +73,14 @@ Below are listed all of the import links so you don't have to separately get all
 ```
 @import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/TextStatusIndicators/textstatus.css");
 ```
+
+### Better Quotes
+```
+@import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/BetterQuotes/quotes.css");
+
+:root {
+    --quotes-background-border: var(--background-secondary);
+    --quotes-divider: var(--background-accent); 
+    --quotes-text: #fff;
+}
+```
