@@ -76,7 +76,8 @@
 .categoryFade-2ybR1J, 
 .categoryFadeBlurple-1j72_A,
 .gif-1TcNIB,
-.root-1gCeng > .content-1LAB8Z > .message-2qRu38 {
+.root-1gCeng > .content-1LAB8Z > .message-2qRu38,
+#search-results {
    border-radius: 15px
 }
 /* 10px Borders */
