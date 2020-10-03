@@ -7,8 +7,9 @@
 .userInfoViewing-16kqK3,
 .userInfoEditing-1CEzdT,
 .input-cIJ7To, 
-.css-1a8reka-control,
-.css-gd8if9-control,
+.css-118dehu-control,
+.css-gvi9bl-control,
+.css-17e1tep-control,
 .container-CpszHS,
 .gameNameInput-385LoS,
 .searchBar-3dMhjb,
@@ -53,6 +54,7 @@
 .membershipDialog-rVL-t_,
 .previewContainer-37c2Si,
 .marginBottom20-32qID7 > .formNotice-2_hHWR,
+.marginBottom20-32qID7 > .children-rWhLdy > .formNotice-2_hHWR,
 .option-n0icdO,
 .flexCenter-3_1bcw:before,
 .preview-2nSL_2,
@@ -101,13 +103,13 @@
    border-radius: 0px 0px 20px 20px /* Bottom 20px */
 }
 
-.css-2yldzf-control,
+.css-6fzn47-control,
 .checklistHeader-1KWcEY,
 .tierHeaderUnlocked-2RhWqn,
 .tierHeaderLocked-1a2opw { 
    border-radius: 15px 15px 0px 0px /* Top 15px */
 }
-.css-n57xjs-menu,
+.css-3vaxre-menu,
 .tierBody-x9kBBp {
    border-radius: 0px 0px 15px 15px /* Bottom 15px */
 }
