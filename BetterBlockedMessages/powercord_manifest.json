@@ -1,0 +1,9 @@
+{
+    "name": "Better Blocked Messages",
+    "description": "Makes blocked messages look better.",
+    "version": "1.0.0",
+    "author": "LuckFire#4800",
+    "theme": "bottombar.css",
+    "consent": "false",
+    "license": "MIT"
+}
