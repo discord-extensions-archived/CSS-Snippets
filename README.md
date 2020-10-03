@@ -84,3 +84,7 @@ Below are listed all of the import links so you don't have to separately get all
     --quotes-text: #fff;
 }
 ```
+### Better Blocked Messages
+```
+@import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/BetterBlockedMessages/blockedmessages.css")
+```
