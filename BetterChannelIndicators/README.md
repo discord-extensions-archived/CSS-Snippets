@@ -1,5 +1,5 @@
 # Better Channel Indicators
-Make Discord's boring channel indicators look better. Inspired by hellbound.
+Make Discord's boring channel indicators look better.
 
 ## Preview
 ![Preview](https://raw.githubusercontent.com/LuckFire/CSS-Snippets/master/!%20Previews/BetterChannelIndicators.png)
