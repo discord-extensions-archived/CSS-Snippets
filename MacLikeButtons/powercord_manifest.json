@@ -1,0 +1,9 @@
+{
+    "name": "Mac Like Minimize/Maximize/Close Buttons",
+    "description": "Makes Discord's default Min/Max/Close buttons appear like the ones that are on Mac.",
+    "version": "1.0.0",
+    "author": "LuckFire#4800",
+    "theme": "minmaxclose.css",
+    "consent": "false",
+    "license": "MIT"
+}
