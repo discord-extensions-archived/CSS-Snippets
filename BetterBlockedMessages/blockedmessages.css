@@ -1,5 +1,5 @@
 /* # Blocked Message(s) Background */
-.blockedMessageText-1fRjos:before {
+.blockedMessageText-1fRjos::before {
   content: "";
   background: var(--background-secondary);
   border-radius: 10px;
@@ -7,7 +7,7 @@
   margin: 0 -310px 0 -64px;
 }
 
-.groupStart-23k01U.expanded-13sWhZ > div > div > div > .content-2M3n_H  > div:before {
+.groupStart-23k01U.expanded-13sWhZ > div > div > div > .content-2M3n_H  > div::before {
   padding-bottom: 0;
   border-radius: 10px 10px 0 0;
 }
@@ -26,7 +26,7 @@
   margin: -5px 4px 0 8px;
   border-radius: 0px 10px 10px 10px;
 }
-.groupStart-23k01U.expanded-13sWhZ > div > div > div > .content-2M3n_H  > div:hover:before {
+.groupStart-23k01U.expanded-13sWhZ > div > div > div > .content-2M3n_H  > div:hover::before {
   background: var(--background-secondary);
 }
 .groupStart-23k01U.expanded-13sWhZ > .message-2qnXI6:hover,
