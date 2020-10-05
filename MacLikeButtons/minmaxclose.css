@@ -24,15 +24,15 @@
 .winButtonClose-1HsbF-:hover::after {
    background-color: rgba(255, 96, 92, 0.5);
 }
-.winButtonMinMax-PBQ2gm[aria-label="Maximize"]::after {
+.winButtonMinMax-PBQ2gm[aria-label="Minimize"]::after {
    background-color: #FFBD44;
 }
-.winButtonMinMax-PBQ2gm[aria-label="Maximize"]:hover::after {
+.winButtonMinMax-PBQ2gm[aria-label="Minimize"]:hover::after {
    background-color: rgba(255, 189, 68, 0.5);
 }
-.winButtonMinMax-PBQ2gm[aria-label="Minimize"]::after {
+.winButtonMinMax-PBQ2gm[aria-label="Maximize"]::after {
    background-color: #00CA4E;
 }
-.winButtonMinMax-PBQ2gm[aria-label="Minimize"]:hover::after {
+.winButtonMinMax-PBQ2gm[aria-label="Maximize"]:hover::after {
    background-color: rgba(0, 202, 78, 0.5);
 }
