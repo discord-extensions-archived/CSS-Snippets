@@ -19,18 +19,21 @@
    margin-right: 5px;
 }
 .winButtonClose-1HsbF-::after {
+   background: url(https://raw.githubusercontent.com/LuckFire/CSS-Snippets/dbdb8c3385ef2e6c36e1c3d8e50d032c2e1fe479/MacLikeButtons/Assets/ButtonClose.svg) center/90% no-repeat;
    background-color: #FF605C;
 }
 .winButtonClose-1HsbF-:hover::after {
    background-color: rgba(255, 96, 92, 0.5);
 }
 .winButtonMinMax-PBQ2gm[aria-label="Minimize"]::after {
+   background: url(https://raw.githubusercontent.com/LuckFire/CSS-Snippets/dbdb8c3385ef2e6c36e1c3d8e50d032c2e1fe479/MacLikeButtons/Assets/ButtonHide.svg) center/90% no-repeat;
    background-color: #FFBD44;
 }
 .winButtonMinMax-PBQ2gm[aria-label="Minimize"]:hover::after {
    background-color: rgba(255, 189, 68, 0.5);
 }
 .winButtonMinMax-PBQ2gm[aria-label="Maximize"]::after {
+   background: url(https://raw.githubusercontent.com/LuckFire/CSS-Snippets/dbdb8c3385ef2e6c36e1c3d8e50d032c2e1fe479/MacLikeButtons/Assets/ButtonMinMax.svg) center/90% no-repeat;
    background-color: #00CA4E;
 }
 .winButtonMinMax-PBQ2gm[aria-label="Maximize"]:hover::after {
