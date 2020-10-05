@@ -30,3 +30,6 @@
 ### Better Blocked Messages
 ![Preview](https://raw.githubusercontent.com/LuckFire/CSS-Snippets/master/!%20Previews/BetterBlockedMessages1.png)
 ![Preview](https://raw.githubusercontent.com/LuckFire/CSS-Snippets/master/!%20Previews/BetterBlockedMessages2.png)
+
+### Mac Like Minimize/Maximize/Close Buttons
+![Preview](https://raw.githubusercontent.com/LuckFire/CSS-Snippets/master/!%20Previews/MacButtons.png)
