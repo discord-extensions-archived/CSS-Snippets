@@ -7,6 +7,7 @@
 .wordmarkWindows-1v0lYD {
    position: relative;
    top: -4.5px;
+   left: 2px;
    order: 4;
 }
 .scroller-2TZvBN {
@@ -18,27 +19,27 @@
 .winButton-iRh8-Z > svg {
    display: none;
 }
-
-
 .titleBar-AC4pGV.directionRowReverse-m8IjIq {
    flex-direction: row;
 }
 
+
 .winButton-iRh8-Z::after {
    content: "";
-   padding: 7px;
+   padding: 6.5px;
    border-radius: 50px;
    pointer-events: fill;
 }
-
 .winButtonClose-1HsbF- {
    order: 1;
 }
 .winButtonClose-1HsbF-::after {
    background-color: #FF605C;
+   border: 1px solid #FF605C;
 }
 .winButtonClose-1HsbF-:hover::after {
-   background-color: rgba(255, 96, 92, 0.5);
+   background-color: #944A50;
+   border: 1px solid #944A50;
 }
 
 .winButtonMinMax-PBQ2gm[aria-label="Minimize"] {
@@ -46,9 +47,11 @@
 }
 .winButtonMinMax-PBQ2gm[aria-label="Minimize"]::after {
    background-color: #FFBD44;
+   border: 1px solid #FFBD44;
 }
 .winButtonMinMax-PBQ2gm[aria-label="Minimize"]:hover::after {
-   background-color: rgba(255, 189, 68, 0.5);
+   background-color: #947944;
+   border: 1px solid #947944;
 }
 
 .winButtonMinMax-PBQ2gm[aria-label="Maximize"] {
@@ -56,7 +59,10 @@
 }
 .winButtonMinMax-PBQ2gm[aria-label="Maximize"]::after {
    background-color: #00CA4E;
+   border: 1px solid #00CA4E;
+   margin-left: 1px;
 }
 .winButtonMinMax-PBQ2gm[aria-label="Maximize"]:hover::after {
-   background-color: rgba(0, 202, 78, 0.5);
+   background-color: #107639;
+   border: 1px solid #107639;
 }
