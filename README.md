@@ -88,3 +88,8 @@ Below are listed all of the import links so you don't have to separately get all
 ```
 @import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/BetterBlockedMessages/blockedmessages.css")
 ```
+
+### Mac Like Buttons
+```
+@import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/MacLikeButtons/minmaxclose.css")
+```
