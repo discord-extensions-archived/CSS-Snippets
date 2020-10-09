@@ -1,26 +1,44 @@
-.toolbar-1t6TWx {
-   margin-right: 105px;
-}
-.winButton-iRh8-Z:hover {
-   background-color: rgba(0,0,0,0);
-}
+.wordmark-2iDDfm,
 .winButton-iRh8-Z > svg {
    display: none;
+}
+.titleBar-AC4pGV {
+   margin-top: -10px;
+}
+.winButton-iRh8-Z,
+.winButton-iRh8-Z:hover {
+   background-color: rgba(0, 0, 0, 0);
+   pointer-events: none;
+}
+.scroller-2TZvBN {
+   margin-top: 25px;
 }
 
 
 .winButton-iRh8-Z::before {
    content: "";
-   padding: 10px;
-   margin-top: 70px;
+   position: relative;
+   pointer-events: fill;
+   padding: 8px;
+   margin: 45px 12px 0 0;
 }
 
-
+.titleBar-AC4pGV.directionRowReverse-m8IjIq {
+   flex-direction: row;
+}
 .winButtonClose-1HsbF- {
-   position: fixed;
-   margin-left: -77px;
-   margin-top: 8px;
+   order: 1;
+   margin: 0 -5px 0 5px;
 }
+.winButtonMinMax-PBQ2gm[aria-label="Minimize"] {
+   order: 2;
+}
+.winButtonMinMax-PBQ2gm[aria-label="Maximize"] {
+   order: 3;
+   margin-left: -5px;
+}
+
+
 .winButtonClose-1HsbF-::before {
    background-color: #FF605C;
 }
@@ -30,7 +48,6 @@
 
 .winButtonMinMax-PBQ2gm[aria-label="Minimize"]::before {
    background-color: #FFBD44;
-   margin-right: 32px;
 }
 .winButtonMinMax-PBQ2gm[aria-label="Minimize"]:hover::before {
    background-color: #947944;
@@ -38,7 +55,6 @@
 
 .winButtonMinMax-PBQ2gm[aria-label="Maximize"]::before {
    background-color: #00CA4E;
-   margin-right: 20px;
 }
 .winButtonMinMax-PBQ2gm[aria-label="Maximize"]:hover::before {
    background-color: #107639;
