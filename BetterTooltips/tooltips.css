@@ -1,10 +1,15 @@
+:root {
+   --tooltip-color: rgba(95, 118, 202, 0.5);
+   --tooltip-blur: blur(1.5px);
+}
+
 .tooltip-2QfLtc {
-   background-color: rgba(95, 118, 202, 0.5) !important;
-   backdrop-filter: blur(1.5px);
+   background-color: var(--tooltip-color) !important;
+   backdrop-filter: var(--tooltip-blur);
    text-shadow: #000 0 0 5px;
 }
 .tooltipPointer-3ZfirK {
-   border-top-color: rgba(95, 118, 202, 0.5) !important;
+   border-top-color: var(--tooltip-color) !important;
 }
 
 .tooltipContent-bqVLWK > .colorMuted-HdFt4q {
