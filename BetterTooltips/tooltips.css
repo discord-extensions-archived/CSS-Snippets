@@ -17,10 +17,11 @@
    font-weight: bold;
 }
 .tooltipContent-bqVLWK > .colorMuted-HdFt4q::before {
-   content: "";
+   content: " ";
    background: url(https://raw.githubusercontent.com/LuckFire/CSS-Snippets/master/BetterTooltips/Assets/MutedIcon.svg) center/100% no-repeat;
-   padding-left: 18px;
-   margin-right: 5px;
+   padding-left: 21px;
+   margin-left: 1px;
+   margin-right: 7px;
    filter: drop-shadow(0 0 1.5px #000);
 }
 
