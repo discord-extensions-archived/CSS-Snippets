@@ -3,7 +3,7 @@
     "description": "Makes blocked messages look better.",
     "version": "1.0.0",
     "author": "LuckFire#4800",
-    "theme": "bottombar.css",
+    "theme": "blockedmessages.css",
     "consent": "false",
     "license": "MIT"
 }
