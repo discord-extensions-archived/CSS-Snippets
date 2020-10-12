@@ -1,0 +1,27 @@
+.tooltip-2QfLtc {
+   background-color: rgba(95, 118, 202, 0.5) !important;
+   backdrop-filter: blur(1.5px);
+   text-shadow: #000 0 0 5px;
+}
+.tooltipPointer-3ZfirK {
+   border-top-color: rgba(95, 118, 202, 0.5) !important;
+}
+
+.tooltipContent-bqVLWK > .colorMuted-HdFt4q {
+   color: #F04747;
+   font-weight: bold;
+}
+.tooltipContent-bqVLWK > .colorMuted-HdFt4q::before {
+   content: "";
+   background: url(https://raw.githubusercontent.com/LuckFire/CSS-Snippets/master/BetterTooltips/Assets/MutedIcon.svg) center/100% no-repeat;
+   padding-left: 18px;
+   margin-right: 5px;
+   filter: drop-shadow(0 0 1.5px #000);
+}
+
+.tooltipContent-bqVLWK > .row-2OVM4t > svg {
+   filter: drop-shadow(0 0 1.5px #000);
+}
+.tooltipContent-bqVLWK > .row-2OVM4t > svg > path {
+   fill: #43B581;
+}
