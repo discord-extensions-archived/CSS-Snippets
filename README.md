@@ -93,3 +93,13 @@ Below are listed all of the import links so you don't have to separately get all
 ```
 @import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/MacLikeButtons/minmaxclose.css")
 ```
+
+## Better Tooltips
+```
+@import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/BetterTooltips/tooltips.css")
+
+:root {
+        --tooltip-color: rgba(95, 118, 202, 0.5);
+        --tooltip-blur: blur(1.5px);
+}
+```
