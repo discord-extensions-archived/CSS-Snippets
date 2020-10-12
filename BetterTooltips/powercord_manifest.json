@@ -1,0 +1,9 @@
+{
+    "name": "Better Tooltips",
+    "description": "Makes tooltips look better.",
+    "version": "1.0.0",
+    "author": "LuckFire#4800",
+    "theme": "tooltips.css",
+    "consent": "false",
+    "license": "MIT"
+}
