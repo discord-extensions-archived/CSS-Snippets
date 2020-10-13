@@ -5,6 +5,9 @@
 }
 
 /* Quotes Main */
+.blockquoteContainer-U5TVEi {
+   padding: 2px 0 2px 0;
+}
 .blockquoteContainer-U5TVEi blockquote {
   background-color: var(--quotes-background-border);
   border: 1px solid var(--quotes-background-border);
@@ -12,6 +15,7 @@
   border-radius: 0 4px 4px 0;
   padding: 4px 11px 4px
 }
+
 /* Quotes Divider */
 .blockquoteContainer-U5TVEi > .blockquoteDivider-2hH8H6 {
   background-color: var(--quotes-divider);
