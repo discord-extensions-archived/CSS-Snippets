@@ -20,6 +20,7 @@
    position: relative;
    pointer-events: fill;
    padding: 8px;
+   border-radius: 15px;
    margin: 45px 12px 0 0;
 }
 
