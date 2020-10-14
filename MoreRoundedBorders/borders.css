@@ -6,7 +6,6 @@
 .checkbox-1ix_J3,
 .userInfoViewing-16kqK3,
 .userInfoEditing-1CEzdT,
-.input-cIJ7To, 
 .css-118dehu-control,
 .css-gvi9bl-control,
 .css-17e1tep-control,
@@ -25,7 +24,8 @@
 .member-3-YXUe > .layout-2DM8Md,
 .auditLog-3jNbM6,
 .auditLog-3jNbM6 > .headerDefault-1wrJcN,
-.auditLog-3jNbM6 > .headerClickable-2IVFo9 {
+.auditLog-3jNbM6 > .headerClickable-2IVFo9,
+.inputWrapper-31_8H8 > .input-cIJ7To {
    border-radius: 25px !important
 }
 /* 20px Borders */
@@ -79,7 +79,8 @@
 .root-1gCeng > .content-1LAB8Z > .message-2qRu38,
 #search-results,
 .userSelectNone-Iy6XEP,
-.giftCodeContainer-1fbmAS > .tile-2OwFgW {
+.giftCodeContainer-1fbmAS > .tile-2OwFgW,
+.modalRoot-1Kx4Hb {
    border-radius: 15px
 }
 /* 10px Borders */
@@ -91,7 +92,10 @@
 .attachment-33OFj0 {
    border-radius: 10px
 }
-
+/* 5px Borders */
+.input-cIJ7To {
+   border-radius: 5px;
+}
 
 /* Specific Border Changes */
 .auditLog-3jNbM6 > .headerExpanded-CUEwZ5 { 
@@ -103,7 +107,8 @@
 
 .upsellContainer-L9xv7w > .upsellFooter-ZYsio_,
 .uploadModal-2ifh8j > .footer-3mqk7D,
-.root-1gCeng > .footer-2gL1pp{ 
+.root-1gCeng > .footer-2gL1pp,
+.footer-2gL1pp { 
    border-radius: 0px 0px 20px 20px /* Bottom 20px */
 }
 
