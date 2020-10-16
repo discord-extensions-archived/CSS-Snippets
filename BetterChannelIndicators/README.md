@@ -1,20 +1,4 @@
-# Better Channel Indicators
-Make Discord's boring channel indicators look better.
+# Moved
+Moved this snippet to it's own repo because of all the changes I made to it to be "better". You can find it here: https://github.com/LuckFire/BetterChannelIndiactors
 
-## Preview
-![Preview](https://raw.githubusercontent.com/LuckFire/CSS-Snippets/master/!%20Previews/BetterChannelIndicators.png)
-
-## Installation
-If you'd like to import this snippet, go to your **Themes tab, open Quick CSS** and paste the following:
-
-    @import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/BetterChannelIndicators/indicators.css");
-
-    :root {
-            --unread-badge: rgba(255,255,255,0.6) !important;
-            --unread-bg: rgba(255, 255, 255, 0.01) !important;
-            --selected-badge: rgb(112, 135, 215) !important;
-            --selected-bg: rgba(112, 135, 215, 0.1) !important;
-            --hovered-bg: rgba(79,84,92,0.25) !important;
-            --bg-rounding: 0px 10px 10px 0px !important
-            --border-info: 2px solid /* For more info on different border line types, visit https://css-tricks.com/almanac/properties/b/border/ */
-    }
+## NOTE: If you want to use this snippet still, go ahead. It wont be updated anymore period tho, so I recommend to switching to the repo I listed above.
