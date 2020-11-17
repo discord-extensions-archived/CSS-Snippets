@@ -18,7 +18,9 @@
 /* Clyde Notifications. */
 .wrapper-2a6GCs.ephemeral-1PsL1r {
    background-color: var(--local-bot-default);
-   box-shadow: inset 2px 0 var(--local-bot-side);
+}
+.wrapper-2a6GCs.ephemeral-1PsL1r::before {
+   background-color: var(--local-bot-side);
 }
 .wrapper-2a6GCs.ephemeral-1PsL1r:hover {
    background-color: var(--local-bot-hover) !important;
