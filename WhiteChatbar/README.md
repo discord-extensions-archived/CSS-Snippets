@@ -11,8 +11,8 @@ If you'd like to import this snippet, go to your **Themes tab, open Quick CSS** 
     @import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/WhiteChatbar/textbar.css")
     
     :root {
-            --channeltextarea-background: #EBEDEF !important;
-            --secondary-background: rgb(207, 207, 207);
-            --text-interactive-color: rgb(46, 51, 56); 
-            --icon-color: var(--background-accent)
+            --chatbox-background: #EBEDEF;
+            --text-color: rgb(46, 51, 56); 
+            --special-text-background: rgb(207, 207, 207);
+            --icon-color: var(--background-accent);
     }
