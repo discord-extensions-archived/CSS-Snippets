@@ -94,7 +94,7 @@ Below are listed all of the import links so you don't have to separately get all
 @import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/MacLikeButtons/minmaxclose.css")
 ```
 
-## Better Tooltips
+### Better Tooltips
 ```
 @import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/BetterTooltips/tooltips.css")
 
