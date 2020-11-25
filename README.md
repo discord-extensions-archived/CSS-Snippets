@@ -31,6 +31,9 @@ Below are listed all of the import links so you don't have to separately get all
         --background-mentioned-side: rgb(114, 137, 218);
         --background-mentioned: rgba(114, 137, 218, 0.05);
         --background-mentioned-hover: rgba(114, 137, 218, 0.12);
+	--replying-side: rgb(2, 183, 87);
+        --replying-default: rgba(2, 183, 87, 0.05);
+        --replying-hovered: rgba(2, 183, 87, 0.12);
         --local-bot-side: rgb(240, 71, 71); 
         --local-bot-default: rgba(240, 71, 71, 0.05);
         --local-bot-hover: rgba(240, 71, 71, 0.12);
