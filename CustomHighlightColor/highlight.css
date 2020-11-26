@@ -23,7 +23,7 @@
 
 /* Replying. */
 .replying-1x3H0T {
-   background: var(--replying-default);
+   background: var(--replying-default) !important;
 }
 .replying-1x3H0T::before {
    background: var(--replying-side);
